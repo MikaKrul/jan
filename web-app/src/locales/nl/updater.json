@@ -1,0 +1,10 @@
+{
+  "newVersion": "Nieuwe versie {{version}}",
+  "updateAvailable": "Update beschikbaar",
+  "nightlyBuild": "Nachtelijke build",
+  "showReleaseNotes": "Release-opmerkingen tonen",
+  "hideReleaseNotes": "Release-opmerkingen verbergen",
+  "remindMeLater": "Herinner mij later",
+  "downloading": "Downloaden...",
+  "updateNow": "Nu bijwerken"
+}
